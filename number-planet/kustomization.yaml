@@ -6,6 +6,10 @@ resources:
   - service.yml
   - ingress.yml
 
+images:
+  - name: __WEB_APP_IMAGE__
+    newName: ap-chuncheon-1.ocir.io/axaddw88ufgp/number-planet
+    newTag: 0.0.4
 
 commonLabels:
   app: number-planet
