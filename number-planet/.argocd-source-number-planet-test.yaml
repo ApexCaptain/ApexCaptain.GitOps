@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - ap-chuncheon-1.ocir.io/axaddw88ufgp/number-planet=ap-chuncheon-1.ocir.io/axaddw88ufgp/number-planet:0.0.5
